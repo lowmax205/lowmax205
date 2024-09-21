@@ -17,7 +17,7 @@ I'm also excited to explore **Unity** using **C#** to develop engaging games and
 
 ## 💼 Commissions
 
-I’m accepting commissions for:
+I’m accepting commissions for (SOON!):
 
 - Creating template websites
 - Building personalized portfolios

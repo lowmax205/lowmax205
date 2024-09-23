@@ -15,15 +15,6 @@ I'm currently diving into:
 
 I'm also excited to explore **Unity** using **C#** to develop engaging games and applications!
 
-## 💼 Commissions
-
-I’m accepting commissions for (SOON!):
-
-- Creating template websites
-- Building personalized portfolios
-
-If you're interested in collaborating or need a project, feel free to reach out!
-
 ## 🔗 Connect with Me
 
 - [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lowmax205)

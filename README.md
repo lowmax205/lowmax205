@@ -19,4 +19,4 @@ I'm also excited to explore **Unity** using **C#** to develop engaging games and
 
 - [![Sololearn](https://img.shields.io/badge/Sololearn-%23972B1F.svg?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/2508058)
 
-Thanks for visiting my profile! I’m looking forward to connecting with fellow developers and tech enthusiasts.
+Thanks for visiting my profile!

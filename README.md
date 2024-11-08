@@ -13,8 +13,6 @@ I'm currently diving into:
 - **Java**
 - **Python**
 
-I'm also excited to explore **Unity** using **C#** to develop engaging games and applications!
-
 ## 🔗 Connect with Me
 
 - [![Sololearn](https://img.shields.io/badge/Sololearn-%23972B1F.svg?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/2508058)

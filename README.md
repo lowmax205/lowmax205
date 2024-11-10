@@ -16,6 +16,6 @@ I'm currently diving into:
 ## 🔗 Connect with Me
 
 - [![Sololearn](https://img.shields.io/badge/Sololearn-%23972B1F.svg?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/2508058)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilojr.olang@gmail.com)
+- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilojr.olang@gmail.com)
 
 Thanks for visiting my profile!

@@ -14,9 +14,12 @@ Hi there! I'm Nilo Jr. 👋<br>I'm a BSCS student. I have a passion for technolo
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🏆 Trophy Status
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowmax205" alt="lowmax205" /></a> </p>
+
 ---
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/NiloJrOlang) 
 
-  
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

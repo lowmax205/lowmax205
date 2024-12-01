@@ -10,9 +10,11 @@ Hi there! I'm Nilo Jr. 👋<br>I'm a BSCS student. I have a passion for technolo
 ![](https://github-readme-stats.vercel.app/api?username=lowmax205&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lowmax205&theme=dark&hide_border=false)
 
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
 ### 🏆 Trophy Status
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lowmax205" alt="lowmax205" /></a> </p>
 

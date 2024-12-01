@@ -9,7 +9,6 @@ Hi there! I'm Nilo Jr. 👋<br>I'm a BSCS student. I have a passion for technolo
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lowmax205&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lowmax205&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lowmax205&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

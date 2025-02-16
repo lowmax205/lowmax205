@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi there! I'm Nilo Jr. 👋<br>I'm a BSCS student. I have a passion for technology and programming, and I'm continuously learning and expanding my skill set.<br>
 
+"premature optimization is the root of all evil" - don't optimize until you have a concrete need for it.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tokitamo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nilojr07) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/lowmax205) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@low2max?si=znlhPSyMNBC5PtRb)
 
